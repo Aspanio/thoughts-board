@@ -1,0 +1,26 @@
+{
+  "name": "thoughts-board",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js\u001b[D\u001b[\u001b[6~\u001b[6~\u001b[6~\u001b[3~\u001b[C\u001b[C\u001b[C\u001b[C\u001b[app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aspanio/thoughts-board.git"
+  },
+  "author": "Lukashevskyi Yevgenii",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Aspanio/thoughts-board/issues"
+  },
+  "homepage": "https://github.com/Aspanio/thoughts-board#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "pug": "^2.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
